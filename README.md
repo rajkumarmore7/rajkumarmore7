@@ -1,13 +1,19 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Rajkumar Vijay More
+<img src="./github-banner.png" alt="Rajkumar Vijay More | Senior Java Developer & Backend Engineer" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
 
 ### 🚀 Senior Java Developer | Backend Engineer
 
 **Building Scalable • Secure • Reliable Enterprise Applications**
 
-**Java • Spring Boot • Microservices • System Design • Azure**
+`Java` • `Spring Boot` • `Microservices` • `System Design` • `Azure`
 
 </div>
 
@@ -15,12 +21,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a Senior Java Developer with experience designing, developing, and deploying enterprise backend applications.
+I'm **Rajkumar Vijay More**, a Senior Java Developer with experience designing, developing, and deploying enterprise backend applications.
+
+My expertise focuses on Java, Spring Boot, Microservices, RESTful APIs, application security, relational databases, and cloud deployments.
 
 - 💻 **Backend Development:** Java, Spring Boot, RESTful APIs and Microservices
 - 🔐 **Application Security:** Spring Security, JWT and token-based authentication
 - 🗄️ **Database Development:** MySQL, Hibernate/JPA and SQL Stored Procedures
-- ☁️ **Cloud & Deployment:** Microsoft Azure, App Service, Virtual Machines and Tomcat
+- ☁️ **Cloud & Deployment:** Microsoft Azure, App Service, Virtual Machines and Apache Tomcat
 - 🏗️ **System Architecture:** Microservices, distributed systems and scalable application design
 - 📚 **Continuous Learning:** Modern Java, System Design and engineering best practices
 
